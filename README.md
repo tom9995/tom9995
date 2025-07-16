@@ -1,6 +1,9 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=tom9995&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
+## 🌱 Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,atom,python,r,cpp,flutter,docker,aws,azure,supabase,git,github"/>
+<br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=tom9995&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-
-
-<img src="https://github-profile-trophy.vercel.app/?username=tom9995&theme=juicyfresh&no-bg=true" />
+## 🏃‍♀️ Activities
+<div align="left"> 
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tom9995&theme=vue-dark&layout=compact" />
+</div>
